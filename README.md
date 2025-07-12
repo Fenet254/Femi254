@@ -85,6 +85,6 @@ Hi, I'm **Fenet Gizaw**, a passionate **Full-Stack Developer** from Ethiopia ðŸ‡
 
 ---
 
-<p align="center">
+<p  align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,100:0080FF&height=120&section=footer"/>
 </p>
