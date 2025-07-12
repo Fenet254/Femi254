@@ -1,4 +1,3 @@
-# Femi254
 <!-- Profile Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Fenet+👩‍💻;Full-Stack+Developer+🌐;AI/ML+Enthusiast+🤖;Lifelong+Learner+📚&center=true&width=500&height=45&font=Fira%20Code&color=00A8FF&vCenter=true&size=22" />
@@ -12,12 +11,12 @@
 
 ## 🌟 About Me
 
-Hi, I'm **Fenet Gizaw**, a dedicated **Full-Stack Developer** from Ethiopia 🇪🇹, currently diving deep into the world of **AI & Machine Learning**. With hands-on experience in modern web technologies, I love solving real-world problems and building intuitive, elegant, and impactful digital solutions.
+Hi, I'm **Fenet Gizaw**, a passionate **Full-Stack Developer** from Ethiopia 🇪🇹 with a strong focus on **AI & Machine Learning**. I love building real-world solutions using cutting-edge web and AI technologies.
 
-🧠 I'm currently focused on:
-- Building AI-powered applications 🤖
-- Leveling up my machine learning skills 📈
-- Sharing knowledge on YouTube ([@NextGen Developers](https://www.youtube.com/@NextGenDevelopers)) 🎥
+🧠 I'm currently:
+- Developing AI-powered apps 🤖
+- Creating content on YouTube [@NextGen Developers](https://www.youtube.com/@NextGenDevelopers) 🎥
+- Studying Software Engineering at Jimma University 🎓
 
 ---
 
@@ -48,42 +47,41 @@ Hi, I'm **Fenet Gizaw**, a dedicated **Full-Stack Developer** from Ethiopia 🇪
 
 ## 🏆 Achievements
 
-- 🥇 **Full-Stack Development Certified** – Simplilearn
-- 📜 **4+ Certifications** from Udacity
-- 🧠 Participated in multiple Hackathons
-- 📊 Built multiple projects with live demos and real users
-- 🎓 4th Year Software Engineering Student at **Jimma University**
+- 🥇 **Full-Stack Development Certificate** – Simplilearn
+- 📜 **4 Certificates** from Udacity (AI, Web Dev, and more)
+- 🧠 Participant in university hackathons and projects
+- 🎓 4th Year Software Engineering student @ Jimma University
 
 ---
 
-## 💼 My Projects
+## 💼 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎯 AI-Powered Weather App](https://github.com/Femi254/ai-weather-app) | Full-featured weather forecast app with voice and location input | React, OpenAI, Node |
-| [📋 Job Application Tracker](https://github.com/Femi254/job-application-tracker) | Track job applications, progress and deadlines | HTML, CSS, JS |
-| [🌐 Portfolio Website](https://github.com/Femi254/portfolio) | Personal animated portfolio with all my works | HTML, CSS, JS |
+| [🌦️ AI Weather App](https://github.com/Femi254/ai-weather-app) | Real-time, location-aware, voice-enabled weather forecast app | React, OpenAI, Node.js |
+| [📋 Job Application Tracker](https://github.com/Femi254/job-application-tracker) | Track jobs, interviews, and offers | HTML, CSS, JS |
+| [🌐 Portfolio Website](https://github.com/Femi254/portfolio) | Animated personal portfolio with all my works | HTML, CSS, JavaScript |
 
 ---
 
-## 🔥 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Femi254&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Femi254&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Femi254&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Femi254&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Femi254&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Femi254&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/fenet-gizaw-b47003341)
-- 🎥 [YouTube](https://www.youtube.com/@NextGenDevelopers)
-- ✉️ Email: `your-email@example.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/fenet-gizaw-b47003341)
+- 📧 Email: **simbani011@gmail.com**
+- 📹 [YouTube Channel](https://www.youtube.com/@NextGenDevelopers)
 
 ---
 
